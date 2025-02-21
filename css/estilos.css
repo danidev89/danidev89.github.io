@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  text-align: center;
+  overflow-y: hidden;
+}
+
+.principal {
+  margin: 100px auto 0 auto;
+  width: 600px;
+  height: 630px;
+  background-color: inherit;
+}
+
+.nombre {
+  background-color: orange;
+  padding: 2px 0 2px 0;
+}
+
+.contenido {
+  background-color: orange;
+  height: 508px;
+  margin-top: 10px;
+  padding: 30px 0 30px 0;
+}
+
+.rojo {
+  width: 200px;
+  height: 139px;
+  background-color: red;
+  margin: 0 auto;
+  padding-top: 49px;
+}
+
+.amarillo {
+  width: 100px;
+  height: 55px;
+  background-color: yellow;
+  margin: 0 auto;
+  padding-top: 32px;
+}
+.verde-claro {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  background-color: greenyellow;
+}
+
+.azul {
+  width: 380px;
+  height: 217px;
+  background-color: blue;
+  margin: 30px auto 0 auto;
+  padding-top: 52px;
+}
+
+.verde {
+  width: 200px;
+  height: 118px;
+  margin: 0 auto;
+  background-color: green;
+  padding-top: 47px;
+}
+
+.naranja-claro {
+  width: 73px;
+  height: 56px;
+  margin: 0 auto;
+  background-color: rgb(250, 195, 94);
+  padding-top: 22px;
+}
+
+.negro {
+  width: 21px;
+  height: 36px;
+  margin: 0 auto;
+  background-color: #121212;
+}
+
+.redondo {
+  border-radius: 100%;
+}
